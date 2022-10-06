@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-amplify",
+    "slug": "expo-amplify",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
